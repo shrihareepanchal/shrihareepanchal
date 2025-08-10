@@ -7,7 +7,7 @@
 <p align="center"><b>Full Stack Developer</b></p>
 
 ### I have technical experience and interest in:
-- Java
+- Python
 - C programming language
 - Full Stack Development
 - MERN Stack Development
