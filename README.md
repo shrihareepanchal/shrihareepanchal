@@ -1,22 +1,22 @@
 # 👋 Hey! Nice to see you.
 <div align="center">
 
-## I'm Siddheshwar 😄
+## I'm Shriharee 😄
 
 </div>
-<p align="center"><b>Full Stack Developer</b></p>
+<p align="center"><b>AI/ML & Data Science Enthusiast</b></p>
 
 ### I have technical experience and interest in:
-- Python
-- C programming language
-- Full Stack Development
-- MERN Stack Development
+- PYTHON
+- Data Analysis
+- AI & Machine Learning
+- Data Science
 - Data Structure and Algoritham
-- Database (Oracle, MySql, PostgreSql)
+- Generative AI
+- Databases(MySQL,MongoDB)
 - SQL
 
 
-## 💻 Tech Stack
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,27 +38,28 @@
 - Gaming
 - Watching documentaries
 
-
   
 ### you can also find me on:
 <p >
-  <a href="https://www.linkedin.com/in/siddheshwar-magar-424b0b293/" target="_blank">
+  <a href="https://www.linkedin.com/in/shriharee-panchal-6413a8291/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100085033005343" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100089626714214" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/siddhu_magar_49/" target="_blank">
+  <a href="https://www.instagram.com/shreepanchal_004/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>&nbsp;&nbsp;
- <a href="https://www.youtube.com/@SiddheshwarMagar4141" target="_blank">
+ <a href="https://www.youtube.com/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" height="30"/>
 </a>&nbsp;&nbsp;
-  <a href="mailto:siddheshwarmagar4141@gmail.com" target="_blank">
+  <a href="mailto:shriharee0004@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sidddheshwar_magar123/" target="_blank">
+  <a href="https://leetcode.com/u/shrihareepanchal/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
+  <a href="https://auth.geeksforgeeks.org/user/shriharevnk/profile" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30"/>
   </a>
 </p>
 
